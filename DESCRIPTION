@@ -1,0 +1,12 @@
+Package: turnaroundR
+Title: Aircraft Turnaround Time Analysis Toolkit
+Version: 0.1.0
+Authors@R: person("Amir", "Qanbari", email = "amqanbari97@gmail.com", role = c("aut", "cre"))
+Description: Tools for calculating and analyzing aircraft turnaround efficiency, including delay classification and visualization.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: ggplot2
+Depends: 
+    R (>= 3.5)
+RoxygenNote: 7.3.2
